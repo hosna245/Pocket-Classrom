@@ -1,0 +1,44 @@
+{
+  "id": "capsule-001",
+  "meta": {
+    "title": "Introduction to Cybersecurity",
+    "subject": "Computer Science",
+    "level": "Intermediate",
+    "description": "This capsule introduces key concepts of cybersecurity including threats, encryption, and safe online practices."
+  },
+  "notes": [
+    "Cybersecurity protects systems and networks from digital attacks.",
+    "Common threats include malware, phishing, and ransomware.",
+    "Always keep software updated to reduce vulnerabilities."
+  ],
+  "flashcards": [
+    {
+      "front": "What is the main goal of cybersecurity?",
+      "back": "To protect systems, networks, and data from unauthorized access and attacks."
+    },
+    {
+      "front": "What does 'phishing' mean?",
+      "back": "A type of cyber attack where attackers trick users into revealing sensitive information via fake emails or websites."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which of the following is an example of malware?",
+      "choices": ["Firewall", "Antivirus", "Trojan Horse", "Encryption"],
+      "correct": 2,
+      "explain": "A Trojan Horse is a type of malware disguised as legitimate software."
+    },
+    {
+      "q": "Which practice helps improve password security?",
+      "choices": [
+        "Using short passwords",
+        "Sharing passwords with friends",
+        "Using two-factor authentication",
+        "Writing passwords on paper"
+      ],
+      "correct": 2,
+      "explain": "Two-factor authentication adds an extra layer of protection beyond just passwords."
+    }
+  ],
+  "updatedAt": "2025-10-23T14:30:00.000Z"
+}
